@@ -1,7 +1,7 @@
 <?php
 
 require 'vendor/autoload.php';
-require_once 'src/SearchEngine.php';
+//require_once 'src/SearchEngine.php';
 
 use Dac\SearchEngine\SearchEngine;
 use GuzzleHttp\Client;
