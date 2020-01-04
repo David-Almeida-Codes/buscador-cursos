@@ -1,0 +1,16 @@
+{
+    "name": "david-almeida-codes/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "David Almeida",
+            "email": "davidsouzacontato@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.4",
+        "symfony/dom-crawler": "^4.2",
+        "symfony/css-selector": "^5.0"
+    }
+}
